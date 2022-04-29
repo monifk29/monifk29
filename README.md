@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Monif Khan
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning React/Redux
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 Drop a mail @khanmonif0@gmail.com
 <h1 align="center">Hi 👋, I'm Monif Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -32,6 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monifk29&show_icons=true&locale=en" alt="monifk29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monifk29&" alt="monifk29" /></p>
+
 
 <!---
 monifk29/monifk29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
