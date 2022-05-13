@@ -10,13 +10,12 @@
 - 💬 Ask me about **HTML CSS JS React**
 
 - 📫 How to reach me **khanmonif0@gmail.com**
-- <a href="https://www.linkedin.com/in/monif-khan-904a02191/">Linked in<a/>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aBD9iRKazHD99y0f5MlcJBTiQHX39OO9/view?usp=sharing](https://drive.google.com/file/d/1aBD9iRKazHD99y0f5MlcJBTiQHX39OO9/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/monif-khan-904a02191/">Linked in<a/></h3>
 <p align="left">
 </p>
 
