@@ -10,6 +10,7 @@
 - 💬 Ask me about **HTML CSS JS React**
 
 - 📫 How to reach me **khanmonif0@gmail.com**
+- <a href="https://www.linkedin.com/in/monif-khan-904a02191/"><a/>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aBD9iRKazHD99y0f5MlcJBTiQHX39OO9/view?usp=sharing](https://drive.google.com/file/d/1aBD9iRKazHD99y0f5MlcJBTiQHX39OO9/view?usp=sharing)
 
