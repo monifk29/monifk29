@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/monif-khan-904a02191/"><img  src="https://imgs.search.brave.com/YSAVD7m9ss0WPYpHW_Surx343re4chv7YHnDH4mLssg/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5q/LTN2VU12UzQybVVI/T0hqcGdBQVdRSGFF/SyZwaWQ9QXBp" alt = "Linked.in" width="10px" height="5px"/>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/monif-khan-904a02191/"><img  src="https://imgs.search.brave.com/YSAVD7m9ss0WPYpHW_Surx343re4chv7YHnDH4mLssg/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5q/LTN2VU12UzQybVVI/T0hqcGdBQVdRSGFF/SyZwaWQ9QXBp" alt = "Linked.in" width="10%" height="5%"/>
   <a/></h3>
 <p align="left">
 </p>
